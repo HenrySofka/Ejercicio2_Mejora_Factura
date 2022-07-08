@@ -1,0 +1,21 @@
+
+9
+	build.sbt,7\4\74b95601c3a6d9d565cd312fac64094ec0f9d847
+e
+5src/main/scala/com/ejercicio/funciones/Calcular.scala,c\8\c86e32113f897274000ebf69365b8c9976e2f1b4
+f
+6src/main/scala/com/ejercicio/typealias/TypeAlias.scala,b\0\b0b5cba4b780dffd396069cb309361401e4b151c
+e
+5src/main/scala/com/ejercicio/traits/IvaIncluido.scala,c\a\ca8bd59a59fbe7184bba44f3c9568c20f419c6df
+j
+:src/main/scala/com/ejercicio/traits/ImpuestoIncluido.scala,2\f\2f9c6b7f67ffdccb539d9a808783321212e43dae
+l
+<src/main/scala/com/ejercicio/traits/CalcularTotalValor.scala,3\1\31cb9033818f984bf5c88c9183e053d8ba11bfe8
+c
+3src/main/scala/com/ejercicio/clases/Producto3.scala,d\0\d0f3eb164854b970455b8c8d117500d5070103b8
+o
+?src/main/scala/com/ejercicio/caseclass/producto/Producto2.scala,4\e\4ed02af7deda16f52651f883e56cf04872f35168
+W
+'src/main/scala/com/ejercicio/Main.scala,7\c\7cef09f943844cd67c51abc9abfcd5230f58f349
+n
+>src/main/scala/com/ejercicio/caseclass/producto/Producto.scala,7\8\78497a7d43b003603a89c7926424350c1f9fefbe
